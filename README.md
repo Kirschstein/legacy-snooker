@@ -1,4 +1,4 @@
-#Legacy Code: Snooker Score Calculator
+# Legacy Code: Snooker Score Calculator
 
 Ronnie prides himself on being a quick developer and has been able to get out the first version 
 of our software in record time. 
